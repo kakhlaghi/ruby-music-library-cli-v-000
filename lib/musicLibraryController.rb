@@ -20,8 +20,8 @@ class MusicLibraryController
      user_input = gets.strip
      case user_input
      when "list songs"
-       list_songs 
-     
+       list_songs
+     end
    end
   end
 
